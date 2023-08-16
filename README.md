@@ -15,14 +15,14 @@ Beispiel: "World of Warcraft\_retail_\Interface\AddOns\MaUI_Potraits"
 
 ## Screenshots
 - Flat
-![Flat](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/flat.png)
+- ![Flat](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/flat.png)
 
 - Flat Round
-![Flat Round](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/flat%20round.png)
+- ![Flat Round](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/flat%20round.png)
 
 - Bevel
-![Bevel](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/bevel.png)
+- ![Bevel](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/bevel.png)
 
 - Bevel Round
-![Bevel Round](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/bevel%20round.png)
+- ![Bevel Round](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/bevel%20round.png)
 
