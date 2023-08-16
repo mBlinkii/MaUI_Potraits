@@ -16,6 +16,8 @@ To use this package, you need to copy these textures into your addons directory.
 
 Example: "World of Warcraft\_retail_\Interface\AddOns\MaUI_Potraits".
 
+## Packs
+
 - Flat https://github.com/mBlinkii/MaUI_Potraits/releases/download/1.2/flat.zip
 - Flat Round https://github.com/mBlinkii/MaUI_Potraits/releases/download/1.2/flat.round.zip
 - Bevel https://github.com/mBlinkii/MaUI_Potraits/releases/download/1.2/bevel.zip
