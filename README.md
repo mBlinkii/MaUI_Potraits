@@ -20,3 +20,10 @@ Example: "World of Warcraft\_retail_\Interface\AddOns\MaUI_Portraits".
 
 - [Flat https://github.com/mBlinkii/MaUI_Potraits/releases/download/1.2/flat.zip](https://wago.io/aS15q7L_M)https://wago.io/aS15q7L_M
 
+
+## Screenshots
+![scr1](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/Screenshot%202023-08-26%20164104.png)
+![scr2](https://github.com/mBlinkii/MaUI_Potraits/blob/main/Screenshot%202023-08-25%20181529.png)
+![scr3](https://github.com/mBlinkii/MaUI_Potraits/blob/main/Screenshot%202023-08-25%20161003.png)
+![scr4](https://github.com/mBlinkii/MaUI_Potraits/blob/main/Screenshot%202023-08-26%20164333.png)
+
