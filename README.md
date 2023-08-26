@@ -18,7 +18,7 @@ Example: "World of Warcraft\_retail_\Interface\AddOns\MaUI_Portraits".
 
 ## Weakaura
 
-- [Flat https://github.com/mBlinkii/MaUI_Potraits/releases/download/1.2/flat.zip](https://wago.io/aS15q7L_M)https://wago.io/aS15q7L_M
+https://wago.io/aS15q7L_M
 
 
 ## Screenshots
