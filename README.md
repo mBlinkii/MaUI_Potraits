@@ -8,6 +8,8 @@ Um diese Paket zu nutzen, müssen diese Texturen in euer Addons Verzeichnis kopi
 
 Beispiel: "World of Warcraft\_retail_\Interface\AddOns\MaUI_Portraits"
 
+----
+
 ## English - EN
 
 This is a texture package for my Weakaura to use in the game.
@@ -16,10 +18,13 @@ To use this package, you need to copy these textures into your addons directory.
 
 Example: "World of Warcraft\_retail_\Interface\AddOns\MaUI_Portraits".
 
+----
+
 ## Weakaura
 
 https://wago.io/aS15q7L_M
 
+----
 
 ## Screenshots
 ![scr1](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/Screenshot%202023-08-26%20164104.png)
@@ -57,6 +62,7 @@ Einfache Portraits für den Spieler, das Ziel und die Gruppen mitglieder. um die
 Für mehr Support könnt ihr auch meinem Discord beitreten: https://discord.gg/AE9XebMU49
 
 ----
+
 ## Weakaura: Instructions EN
 Basic portraits for the player, target, and party members. An additional texture pack must be installed to use this Weakaura.
 
@@ -81,6 +87,4 @@ Basic portraits for the player, target, and party members. An additional texture
 - RUF - https://wago.io/-Y_Tyugb8
 - SUF - https://wago.io/j6RbLccdZ
 
-----
 For more support you can also join my Discord: https://discord.gg/AE9XebMU49
-
