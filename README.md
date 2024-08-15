@@ -36,6 +36,7 @@ Einfache Portraits für den Spieler, das Ziel und die Gruppen mitglieder. um die
  - Einstellungen können unter "Custom Options" vorgenommen werden
  - Ihr könnt die Farben und den Textur still ändern.
  - Nach dem ändern der Einstellungen ist ein "/reload ui" nötig um  die Änderungen zu über nehmen.
+ - mehr infos unter: https://github.com/mBlinkii/MaUI_Potraits
 
 ### Download:
 - Texture Packet:
@@ -57,12 +58,13 @@ Für mehr Support könnt ihr auch meinem Discord beitreten: https://discord.gg/A
 
 ----
 ## Weakaura: Instructions EN
-Basic portraits for the player, target, and party members. An additional texture pack must be installed to use this weakaura.
+Basic portraits for the player, target, and party members. An additional texture pack must be installed to use this Weakaura.
 
 ### Info
  - Settings can be made under "Custom Options".
  - You can change the colors and the texture.
  - After changing the settings, a “/reload ui” is required to apply the changes.
+ - more info at: https://github.com/mBlinkii/MaUI_Potraits
 
 ### Download:
 - Texture Package:
@@ -75,10 +77,10 @@ Basic portraits for the player, target, and party members. An additional texture
  - Please make sure that there is not another folder with the same name in the "MaUI_Portraits" folder
 
 ### Versions for other addons:
-
 - ElvUI - https://wago.io/aS15q7L_M
 - RUF - https://wago.io/-Y_Tyugb8
 - SUF - https://wago.io/j6RbLccdZ
 
+----
 For more support you can also join my Discord: https://discord.gg/AE9XebMU49
 
