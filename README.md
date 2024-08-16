@@ -21,10 +21,9 @@ https://wago.io/aS15q7L_M
 ------------
 
 # Screenshots
-![scr1](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/Screenshot%202023-08-26%20164104.png)
-![scr2](https://github.com/mBlinkii/MaUI_Potraits/blob/main/Screenshot%202023-08-25%20181529.png)
-![scr3](https://github.com/mBlinkii/MaUI_Potraits/blob/main/Screenshot%202023-08-25%20161003.png)
-![scr4](https://github.com/mBlinkii/MaUI_Potraits/blob/main/Screenshot%202023-08-26%20164333.png)
+![scr1](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/preview.png)
+![scr2](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/settings_a.png)
+![scr3](https://raw.githubusercontent.com/mBlinkii/MaUI_Potraits/main/settings_b.png)
 
 ------------
 
